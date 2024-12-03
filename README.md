@@ -32,6 +32,7 @@ pip install opencv-python-headless
 ├── README.md                           # Project documentation
 
 
+![Screenshot 2024-10-08 225254](https://github.com/user-attachments/assets/25e72a23-04cc-4baa-90ac-2d17febede0b)
 
 ![objdect](https://github.com/user-attachments/assets/3bfb3cef-d22a-4bff-9498-eeaf41eb28ed)
 
