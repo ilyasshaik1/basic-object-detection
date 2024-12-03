@@ -19,7 +19,6 @@ To run this project, you need to have the following dependencies installed:
 
 You can install the required Python libraries using pip:
 
-```bash
 pip install opencv-python
 pip install opencv-python-headless
 
@@ -29,6 +28,8 @@ pip install opencv-python-headless
 ├── MobileNetSSD_deploy.prototxt         # Model architecture
 ├── main.py                             # Python script to run object detection
 ├── README.md                           # Project documentation
+
+
 
 
 ## Licensing
