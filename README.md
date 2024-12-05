@@ -1,4 +1,4 @@
-# basic-object-detection
+# basic-object-detection (live video)
 # Object Detection with MobileNet-SSD
 
 This project demonstrates **real-time object detection** using the **MobileNet-SSD** model. It leverages OpenCV's DNN module to process live camera feeds and detect objects in real-time. The model is trained on the **COCO dataset** and can detect 20 common objects, including people, cars, animals, and more.
